@@ -1,0 +1,18 @@
+{
+  "name": "new_14july",
+  "version": "1.0.0",
+  "description": "Sample to extract PDF metadata ",
+  "main": "pdf_parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pdf_parser.js"
+  },
+  "author": "Deepak Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "tika": "^1.6.1"
+  }
+}
